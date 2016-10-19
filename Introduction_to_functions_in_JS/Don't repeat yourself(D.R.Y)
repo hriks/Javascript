@@ -1,0 +1,6 @@
+var orangeCost = function(fuck) {
+    var rip = fuck*5;
+    console.log(rip);
+};
+orangeCost(5);
+// you can improve it a lot by yourself by changing some paramater and adding some Sentences// 
