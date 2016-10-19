@@ -1,0 +1,5 @@
+var nameString = function (name) {
+    return "Hi, I am" + " " + name
+}
+nameString("ZaDy");
+console.log(nameString);
