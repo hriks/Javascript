@@ -31,3 +31,4 @@ switch(troll) {
   default:
     console.log("I didn't understand your choice. Hit Run and try again, this time picking FIGHT, PAY, or RUN!");
 }
+\
