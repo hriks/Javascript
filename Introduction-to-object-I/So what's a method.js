@@ -9,3 +9,4 @@ bob.setAge = function (newAge){
 bob.setAge(40);
 // bob's feeling old.  Use our method to set bob's age to 20
 bob.setAge(20);
+
