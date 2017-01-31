@@ -11,4 +11,5 @@ var mary = {
     email: "mary.johnson@example.com"
 };
 var contacts = [bob,mary];
-console.log(contacts[1].phoneNumber);
+
+console.log(contacts[1].phoneNumber);;
