@@ -5,5 +5,4 @@ do{
   count++;
 } while(count<2);
 };
-
 getToDaChoppa();
