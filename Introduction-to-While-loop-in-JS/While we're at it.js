@@ -5,3 +5,4 @@ while(coinFace === 0){
 	var coinFace = Math.floor(Math.random() * 2);
 }
 console.log("Tails! Done flipping.");
+console.log("ZaDy Said");
