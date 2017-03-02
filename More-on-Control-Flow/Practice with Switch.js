@@ -13,5 +13,6 @@ switch(candy) {
     default:
     console.log("Check once again");
       // Add your code here!
+      // When requied
   
 }
